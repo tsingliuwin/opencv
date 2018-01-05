@@ -1,3 +1,4 @@
-# First Chapter
+# opencv概论
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+学习如何在你的电脑上安装opencv-python！
+
